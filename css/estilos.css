@@ -5,6 +5,7 @@
 }
 
 div{
+    text-align: center;
     color: red;
     border: thick solid black;
     border-style: double;
